@@ -12,9 +12,6 @@ public class calculadora {
 		System.out.println("1(suma), 2(resta), 3(multiplicacion), 4(division)");
 		eleccion = teclado.nextInt();
 		switch (eleccion) {
-		case 1: 
-			System.out.println("Producto: " + (num1 + num2));
-			break;
 		case 3:
 			System.out.println("Producto: " + num1 * num2);
 			break;

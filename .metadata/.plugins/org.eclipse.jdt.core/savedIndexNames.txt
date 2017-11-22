@@ -9,10 +9,10 @@ INDEX VERSION 1.130+C:\Users\usuario\Desktop\Calculadora\.metadata\.plugins\org.
 766596693.index
 1063367808.index
 1801596798.index
-2639584581.index
 4070956152.index
-2664259167.index
+2639584581.index
 2591297871.index
+2664259167.index
 1524953806.index
 2921250600.index
 1711765710.index
