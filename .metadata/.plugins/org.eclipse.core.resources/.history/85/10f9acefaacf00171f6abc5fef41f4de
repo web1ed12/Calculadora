@@ -13,10 +13,7 @@ public class calculadora {
 		eleccion = teclado.nextInt();
 		switch (eleccion) {
 		case 1: 
-			System.out.println("Suma: " + (num1 + num2));
-			break;
-		case 2: 
-			System.out.println("Resta: " + (num1 - num2));
+			System.out.println("Producto: " + (num1 + num2));
 			break;
 		case 3:
 			System.out.println("Producto: " + num1 * num2);
